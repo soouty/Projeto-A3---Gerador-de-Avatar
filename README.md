@@ -23,8 +23,8 @@ Este projeto é uma API simples em Node.js que gera ícones únicos baseados em 
 
 1. Clone o repositório:
     ```bash
-    git clone https://github.com/seu-usuario/random-icon-api.git !!!!!!!
-    cd random-icon-api
+    git clone https://github.com/soouty/Projeto-A3---Gerador-de-Avatar
+    cd Projeto-A3---Gerador-de-Avatar
     ```
 
 2. Instale as dependências:
